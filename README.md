@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Al Abid Supto</h1>
-<h3 align="center">A Research Assistant from BD</h3>
+<h3 align="center">Hi, I'm Al Abid Supto. I'm running student at IUB. I love to learn. I'm a confident, enthusiast, hardworking, and perfection-loving person. I love to learn about new technologies. Now, I'm involved in research works. My area of work in ML and NLP. I'm comfortable with python.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrabid&label=Profile%20views&color=0e75b6&style=flat" alt="mrabid" /> </p>
