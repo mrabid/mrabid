@@ -1,6 +1,7 @@
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 ![logo](https://github.com/mrabid/mrabid/blob/main/Abid%20Git.png)
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h4 align="center">Hi, I'm Al Abid Supto. I'm running student at IUB. I love to learn. I'm a confident, enthusiast, hardworking, and perfection-loving person. I love to learn about new technologies. Now, I'm involved in research works. My area of work in ML and NLP. I'm comfortable with python.</h4>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
