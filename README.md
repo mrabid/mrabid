@@ -2,12 +2,12 @@
 
 ![logo](https://github.com/mrabid/mrabid/blob/main/Abid%20Git.png)
 
-<h4 align="center">Hi, I'm Al Abid Supto. I'm running student at IUB. I love to learn. I'm a confident, enthusiast, hardworking, and perfection-loving person. I love to learn about new technologies. Now, I'm involved in research works. My area of work in ML and NLP. I'm comfortable with python.</h4>
+<h4 align="center">Hi, I am a passionate and experienced Research Assistant with a strong ML and NLP background. Currently, I am a Research Assistant at ADRL, working on various research-related tasks and my area of work is ML and NLP. I am also interested in Computer Vision. My love for these domains came into being through comprehensive exposure to the underlying concepts and applying them vividly to various projects. I am a highly motivated and results-oriented individual with a proven track record of success. I am also a team player with excellent communication and organizational skills.</h4>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrabid&label=Profile%20views&color=0e75b6&style=flat" alt="mrabid" /> </p>
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **Django**
 
 - 📝 I regularly write articles on [https://www.facebook.com/mdalabidsupto/](https://www.facebook.com/mdalabidsupto/)
 
