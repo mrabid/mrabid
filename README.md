@@ -15,15 +15,19 @@
 
 <h2 align="center">About Me</h2>
 
+<h2 align="center">About Me</h2>
+
 <p align="center">
-  I am a highly motivated and results-driven Research Assistant at <strong>ADRL</strong>, with a deep passion for <strong>Machine Learning</strong>, <strong>Natural Language Processing</strong>, and <strong>Computer Vision</strong>. 
-  With a robust academic foundation and hands-on experience, I thrive on transforming complex challenges into innovative, real-world solutions. I am always eager to learn, collaborate, and drive success through cutting-edge research and technology.
+  I am a <strong>dynamically</strong> and <strong>results-oriented</strong> Research Assistant at <strong>ADRL</strong>, driven by an <strong>unwavering passion</strong> for <strong>Machine Learning</strong>, <strong>Natural Language Processing</strong>, and <strong>Computer Vision</strong>. Armed with a robust academic background and <strong>hands-on experience</strong>, I excel at transforming complex challenges into <strong>innovative solutions</strong>. With a <strong>relentless thirst for knowledge</strong>, I thrive on collaboration and aim to propel success through <strong>cutting-edge research</strong> and technology.
 </p>
 
-- 🔭 I’m currently delving deeper into **Django Development**.
-- 🌱 Continuously expanding my knowledge across **AI, ML, and Web Technologies**.
-- 📫 Reach me at **mdalabidsupto@gmail.com**.
-- 🌐 Follow me on [Twitter](https://x.com/mr_alabidS).
+- 🔭 I’m currently diving deep into <strong>Django Development</strong>, enhancing my skill set.
+- 🌱 <strong>Constantly expanding</strong> my expertise across <strong>AI, ML, and Web Technologies</strong>.
+- ✍️ I share my insights and discoveries on [Facebook](https://www.facebook.com/mdalabidsupto/).
+- 💼 Open to collaborations in <strong>AI research, software development, and impactful projects</strong>.
+- 📫 Reach out to me at <strong>mdalabidsupto@gmail.com</strong>.
+- ⚡ Fun Fact: I maintain a <strong>vibrant balance</strong> between my coding journey and my love for <strong>sports & travel</strong>!
+
 
 ---
 
