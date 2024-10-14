@@ -16,7 +16,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  I am a highly motivated and results-driven Research Assistant at <strong>ADRL</strong> with a deep passion for <strong>Machine Learning</strong>, <strong>Natural Language Processing</strong>, and <strong>Computer Vision</strong>. 
+  I am a highly motivated and results-driven Research Assistant at <strong>ADRL</strong>, with a deep passion for <strong>Machine Learning</strong>, <strong>Natural Language Processing</strong>, and <strong>Computer Vision</strong>. 
   With a robust academic foundation and hands-on experience, I thrive on transforming complex challenges into innovative, real-world solutions. Always eager to learn, collaborate, and drive success through cutting-edge research and technology.
 </p>
 
@@ -76,7 +76,7 @@
 ---
 
 <h3 align="center">🌟 Fun Projects</h3>
-<ul>
+<ul align="center">
   <li>🚀 Building an optimized <strong>MultiResUNet</strong> for medical image segmentation.</li>
   <li>⚡ Exploring <strong>DeepLabV3+</strong> for segmentation tasks with high accuracy.</li>
   <li>🌟 Collaborating on diverse machine learning projects focused on NLP and vision.</li>
