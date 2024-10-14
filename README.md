@@ -17,15 +17,13 @@
 
 <p align="center">
   I am a highly motivated and results-driven Research Assistant at <strong>ADRL</strong>, with a deep passion for <strong>Machine Learning</strong>, <strong>Natural Language Processing</strong>, and <strong>Computer Vision</strong>. 
-  With a robust academic foundation and hands-on experience, I thrive on transforming complex challenges into innovative, real-world solutions. Always eager to learn, collaborate, and drive success through cutting-edge research and technology.
+  With a robust academic foundation and hands-on experience, I thrive on transforming complex challenges into innovative, real-world solutions. I am always eager to learn, collaborate, and drive success through cutting-edge research and technology.
 </p>
 
 - 🔭 I’m currently delving deeper into **Django Development**.
 - 🌱 Continuously expanding my knowledge across **AI, ML, and Web Technologies**.
-- ✍️ I frequently share my learnings and insights on [Facebook](https://www.facebook.com/mdalabidsupto/).
-- 💼 Open for collaboration in **AI research, software development, and projects**.
 - 📫 Reach me at **mdalabidsupto@gmail.com**.
-- ⚡ Fun Fact: I balance my coding journey with a love for **sports & travel!**
+- 🌐 Follow me on [Twitter](https://x.com/mr_alabidS).
 
 ---
 
@@ -59,7 +57,7 @@
   <a href="https://dev.to/mrabid" target="_blank">
     <img src="https://img.shields.io/badge/-Dev.to-black?style=flat&logo=dev.to&logoColor=white" />
   </a>
-  <a href="https://twitter.com/mr_alabids" target="_blank">
+  <a href="https://x.com/mr_alabidS" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" />
   </a>
   <a href="https://kaggle.com/mdalabidsupto" target="_blank">
@@ -72,15 +70,6 @@
     <img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white" />
   </a>
 </p>
-
----
-
-<h3 align="center">🌟 Fun Projects</h3>
-<ul align="center">
-  <li>🚀 Building an optimized <strong>MultiResUNet</strong> for medical image segmentation.</li>
-  <li>⚡ Exploring <strong>DeepLabV3+</strong> for segmentation tasks with high accuracy.</li>
-  <li>🌟 Collaborating on diverse machine learning projects focused on NLP and vision.</li>
-</ul>
 
 ---
 
