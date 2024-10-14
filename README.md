@@ -13,7 +13,6 @@
   <img align="center" alt="coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
 
-<h2 align="center">About Me</h2>
 
 <h2 align="center">About Me</h2>
 
