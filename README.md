@@ -14,18 +14,36 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-I am a <strong>visionary software engineer</strong> and <strong>AI researcher</strong> passionate about building intelligent systems that bridge research and real-world applications.  
-Currently working as a <strong>Software Engineer at IoT eXperience, LLC</strong> and a former <strong>Research Assistant at Apurba-DIU R&D Lab</strong>, I bring hands-on expertise in <strong>AI/ML, NLP, Computer Vision, and IoT</strong>.  
-
-Driven by curiosity and innovation, I specialize in transforming data into actionable insights and developing <strong>scalable, high-impact solutions</strong>.
+I am a <strong>Software Engineer and AI Researcher</strong> driven by curiosity, precision, and purpose—building technology that blends innovation with real-world human impact.  
+My work lives at the intersection of <strong>Artificial Intelligence and Full-Stack Development</strong>, where creativity meets computation to solve complex problems with clarity and intelligence.
 </p>
 
-- 🔭 Currently working on **IoT dashboards, AI automation, and real-time analytics**  
-- 🌱 Expanding expertise in **LLMs, RAG pipelines, and Agentic AI systems**  
-- ✍️ Published multiple **research papers** in AI, IoT, and eHealth platforms  
-- 💼 Open to collaborations in **AI research, ML engineering, and product innovation**  
-- 📫 Reach me at: **mdalabidsupto@gmail.com**  
-- ⚡ Fun Fact: I thrive on balancing **cutting-edge research, coding, and sports & travel** 🌍  
+- 💼 Currently working as a <strong>Software Engineer at IoT eXperience, LLC</strong> and <strong>Full-Stack Developer at Chuti Resort Ltd.</strong>  
+- 🔧 Designing and building <strong>scalable web platforms and IoT systems</strong> with a focus on performance, usability, and clean architecture  
+- ⚙️ Tech stack includes <strong>React.js, Flask, SQLAlchemy, Tailwind CSS</strong> for creating seamless, data-driven applications  
+- 📊 Developing <strong>real-time dashboards</strong> that transform complex data into actionable insights  
+
+- 🧠 Former <strong>Research Assistant at Apurba–DIU R&D Lab</strong>  
+- 🔬 Worked on <strong>Machine Learning, NLP, and Computer Vision</strong>  
+- 📄 Built projects like <strong>image-to-text retrieval using LLMs</strong> and <strong>medical image segmentation</strong>  
+- ✍️ Published multiple <strong>research papers</strong> in AI, IoT, and eHealth  
+
+- 🚀 Currently exploring <strong>LLMs, RAG pipelines, and Agentic AI systems</strong>  
+- 🤝 Open to collaboration in <strong>AI research, ML engineering, and innovative product development</strong>  
+
+- 🎯 Core Interests:
+  - Artificial Intelligence & Machine Learning Applications  
+  - Natural Language Processing & Computer Vision  
+  - IoT Systems & Real-Time Data Visualization  
+  - Full-Stack Architecture & Scalable Product Design  
+
+- 📫 Reach me at: <strong>mdalabidsupto@gmail.com</strong>  
+- ⚡ Fun Fact: I balance <strong>deep research, coding, sports, and travel</strong>—because great ideas come from diverse experiences 🌍  
+
+<p align="center">
+I believe technology is more than a tool—it's a language that connects people, simplifies complexity, and drives meaningful progress.  
+My goal is to build systems that are not just efficient, but purposeful, impactful, and built to last.
+</p>
 
 ---
 
