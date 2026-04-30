@@ -19,7 +19,7 @@ With a foundation in <strong>Artificial Intelligence, Full-Stack Development, an
 </p>
 
 <p align="center">
-Currently contributing as a <strong>Software Engineer at IoT eXperience, LLC</strong> and a <strong>Full-Stack Developer at Chuti Resort Ltd.</strong>,  
+Currently contributing as a <strong>Full-Stack Developer at Chuti group and a <strong>Software Engineer at IoT eXperience, LLC</strong>.</strong>,  
 where I engineer <strong>data-driven platforms, real-time dashboards, and scalable web systems</strong>.
 </p>
 
@@ -107,6 +107,9 @@ where I engineer <strong>data-driven platforms, real-time dashboards, and scalab
 ### 🌍 Connect With Me
 
 <p align="center">
+  <a href="mailto:mdalabidsupto@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/al-abid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://dev.to/mrabid"><img src="https://img.shields.io/badge/Dev.to-000000?style=flat&logo=dev.to&logoColor=white" /></a>
   <a href="https://x.com/mr_alabidS"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
