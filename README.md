@@ -98,30 +98,31 @@ I specialize in building <strong>data-driven systems</strong> using <strong>Reac
 ### 🌍 Connect & Contact
 
 <p align="center">
+  🌐 <strong>Portfolio:</strong> https://mrabid.github.io/ <br>
+  📧 <strong>Email:</strong> mdalabidsupto@gmail.com <br>
+  🎓 <strong>University Email:</strong> 1921719@iub.edu.bd <br>
+  📱 <strong>Phone:</strong> +880 1742 314777 <br>
+  💼 <strong>LinkedIn:</strong> https://linkedin.com/in/al-abid
+</p>
+
+<br>
+
+<p align="center">
   <a href="https://mrabid.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <span>🌐 Portfolio</span> &nbsp;&nbsp;
-
   <a href="mailto:mdalabidsupto@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <span>📧 Personal Email</span> &nbsp;&nbsp;
-
   <a href="mailto:1921719@iub.edu.bd">
-    <img src="https://img.shields.io/badge/University_Email-2E86C1?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/University_Email-2E86C1?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <span>🎓 University Email</span> &nbsp;&nbsp;
-
   <a href="tel:+8801742314777">
-    <img src="https://img.shields.io/badge/Call-25D366?style=flat&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <span>📱 +880 1742 314777</span> &nbsp;&nbsp;
-
   <a href="https://linkedin.com/in/al-abid">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <span>💼 LinkedIn</span>
 </p>
 
 <p align="center">
