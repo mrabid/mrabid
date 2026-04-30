@@ -1,101 +1,122 @@
 <h1 align="center">Hi, I'm Md. Al Abid Supto 👋</h1>
 
 <h3 align="center">
-🚀 Software Engineer | 🧠 AI & Machine Learning Enthusiast | 🔬 Researcher  
+🚀 Software Engineer • 🧠 AI Researcher • 🔬 Intelligent Systems Builder
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrabid&label=Profile%20Views&color=blue&style=flat" alt="Profile views" /> 
-  <img src="https://img.shields.io/github/followers/mrabid?label=Followers&style=social" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=mrabid&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/mrabid?label=Followers&style=social" />
 </p>
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">✨ About Me</h2>
 
 <p align="center">
-I am a <strong>Software Engineer and AI Researcher</strong> driven by curiosity, precision, and purpose—building technology that blends innovation with real-world human impact.  
-My work lives at the intersection of <strong>Artificial Intelligence and Full-Stack Development</strong>, where creativity meets computation to solve complex problems with clarity and intelligence.
+I design and build <strong>intelligent, scalable systems</strong> that bridge the gap between <strong>AI research and real-world products</strong>.  
+With a foundation in <strong>Artificial Intelligence, Full-Stack Development, and IoT</strong>, I focus on turning complex ideas into <strong>high-impact, production-ready solutions</strong>.
 </p>
-
-- 💼 Currently working as a <strong>Software Engineer at IoT eXperience, LLC</strong> and <strong>Full-Stack Developer at Chuti Resort Ltd.</strong>  
-- 🔧 Designing and building <strong>scalable web platforms and IoT systems</strong> with a focus on performance, usability, and clean architecture  
-- ⚙️ Tech stack includes <strong>React.js, Flask, SQLAlchemy, Tailwind CSS</strong> for creating seamless, data-driven applications  
-- 📊 Developing <strong>real-time dashboards</strong> that transform complex data into actionable insights  
-
-- 🧠 Former <strong>Research Assistant at Apurba–DIU R&D Lab</strong>  
-- 🔬 Worked on <strong>Machine Learning, NLP, and Computer Vision</strong>  
-- 📄 Built projects like <strong>image-to-text retrieval using LLMs</strong> and <strong>medical image segmentation</strong>  
-- ✍️ Published multiple <strong>research papers</strong> in AI, IoT, and eHealth  
-
-- 🚀 Currently exploring <strong>LLMs, RAG pipelines, and Agentic AI systems</strong>  
-- 🤝 Open to collaboration in <strong>AI research, ML engineering, and innovative product development</strong>  
-
-- 🎯 Core Interests:
-  - Artificial Intelligence & Machine Learning Applications  
-  - Natural Language Processing & Computer Vision  
-  - IoT Systems & Real-Time Data Visualization  
-  - Full-Stack Architecture & Scalable Product Design  
-
-- 📫 Reach me at: <strong>mdalabidsupto@gmail.com</strong>  
-- ⚡ Fun Fact: I balance <strong>deep research, coding, sports, and travel</strong>—because great ideas come from diverse experiences 🌍  
 
 <p align="center">
-I believe technology is more than a tool—it's a language that connects people, simplifies complexity, and drives meaningful progress.  
-My goal is to build systems that are not just efficient, but purposeful, impactful, and built to last.
+Currently contributing as a <strong>Software Engineer at IoT eXperience, LLC</strong> and a <strong>Full-Stack Developer at Chuti Resort Ltd.</strong>,  
+where I engineer <strong>data-driven platforms, real-time dashboards, and scalable web systems</strong>.
 </p>
 
 ---
 
-<h2 align="center">🛠️ Skills & Technologies</h2>
+### ⚡ What I Do
+
+- 🔧 Architect and develop **scalable web & IoT platforms**
+- 📊 Build **real-time analytics dashboards** for actionable insights  
+- 🧠 Apply **AI/ML (NLP, Computer Vision, LLMs)** to real-world problems  
+- 🎯 Focus on **clean architecture, performance, and user experience**
+
+---
+
+### 🧪 Research Background
+
+- 🧠 Former **Research Assistant — Apurba–DIU R&D Lab**  
+- 🔬 Worked on:
+  - Image-to-text retrieval using **LLMs**
+  - **Medical image segmentation** (U-Net++)  
+- 📄 Published research in **AI, IoT, and eHealth systems**
+
+---
+
+### 🚀 Current Focus
+
+- 🧠 LLMs, **RAG Pipelines**, and **Agentic AI Systems**  
+- ⚙️ AI-powered automation & decision systems  
+- 🌐 Scalable product engineering with modern stacks  
+
+---
+
+### 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,php,react,django,flutter,tensorflow,pytorch,sklearn,opencv,html,css,js,tailwind,mysql,git,linux" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,php,react,flask,django,flutter,tensorflow,pytorch,sklearn,opencv,html,css,js,tailwind,mysql,postgres,git,linux" />
 </p>
 
 ---
 
-<h2 align="center">📚 Research & Publications</h2>
+### 🚀 Featured Projects
 
-- 📝 **BAAD: A Multipurpose Dataset for Automatic Bangla Offensive Speech Recognition**  
-- 📝 **IoT-Based Fruit Quality Inspection and Lifespan Detection System**  
-- 📝 **Connecting Patients with Healthcare Providers: A Web-Based e-Health Platform**
+- 🧠 **Medical Image Segmentation (U-Net++)**  
+  → AI model for early melanoma detection  
+
+- 📊 **IoT Monitoring Dashboard**  
+  → Real-time device tracking & analytics system  
+
+- 🌐 **Healthcare Connectivity Platform**  
+  → Seamless patient-doctor interaction system  
+
+- 🤝 **AI Mentorship Platform**  
+  → Smart mentor-mentee matching using ML  
 
 ---
 
-<h2 align="center">🚀 Highlight Projects</h2>
+### 📚 Publications
 
-- 🧠 **Medical Image Segmentation using U-Net++** – Advanced healthcare AI model for early melanoma detection.  
-- 🌐 **Healthcare Connectivity Web App** – Streamlined patient-doctor interaction platform.  
-- 📊 **IoT Dashboard** – Real-time visualization and management system for connected devices.  
-- 🤝 **Modern Coaching & Mentoring System** – AI-powered mentor-mentee matching platform.  
+- 📝 **BAAD: Bangla Offensive Speech Detection Dataset**  
+- 📝 **IoT-Based Fruit Quality & Lifespan Detection**  
+- 📝 **Web-Based eHealth Platform for Patient Care**
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+### 📊 GitHub Analytics
+
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrabid&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrabid&show_icons=true&theme=radical&count_private=true" />
 </div>
+
 <br>
+
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mrabid&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mrabid&theme=radical&hide_border=true" />
 </div>
+
 <br>
+
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrabid&theme=radical&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrabid&theme=radical&layout=compact" />
 </div>
 
 ---
 
-<h2 align="center">🌍 Connect With Me</h2>
+### 🌍 Connect With Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/al-abid" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://dev.to/mrabid" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-black?style=flat&logo=dev.to&logoColor=white" /></a>
-  <a href="https://x.com/mr_alabidS" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" /></a>
-  <a href="https://kaggle.com/mdalabidsupto" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-blue?style=flat&logo=Kaggle&logoColor=white" /></a>
-  <a href="https://medium.com/@mr.abid" target="_blank"><img src="https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white" /></a>
-  <a href="https://www.youtube.com/channel/ucum--uwuljuvh1x_pkxakoq" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/al-abid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dev.to/mrabid"><img src="https://img.shields.io/badge/Dev.to-000000?style=flat&logo=dev.to&logoColor=white" /></a>
+  <a href="https://x.com/mr_alabidS"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
+  <a href="https://kaggle.com/mdalabidsupto"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
+  <a href="https://medium.com/@mr.abid"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/ucum--uwuljuvh1x_pkxakoq"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
 
-<h4 align="center">"Pushing the boundaries of AI, one model at a time." 🌌</h4>
+<h3 align="center">
+💡 "I build systems that think, learn, and create impact."
+</h3>
